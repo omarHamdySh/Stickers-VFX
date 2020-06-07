@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Accurate Gunshot.unity
+    guid: d4e9b193186448746a068b20f755154f
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Blink.unity
+    guid: 1cfe02d8d63d5574da0740da576caecf
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Dangerous Pumpkin.unity
+    guid: c0473820e85b2e7458ee83c6b5298a6b
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Dark Paralysis.unity
+    guid: ff69d05f5f0613e4a88608c02299a68b
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Double Attack Shuriken.unity
+    guid: f06fadb06069e224087838a3b515ad2d
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Fast Gunshot.unity
+    guid: 0385d851d129d5f48837ecae86fe2a89
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Lightning Blast.unity
+    guid: 60d5a91485a3bc04499c177aa887bff4
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Lightning Splash.unity
+    guid: 6a35209f050d21e41b7e744fa9085cac
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Paper Power.unity
+    guid: b89bf33ac4c18124aa8e52bb4e38d6b6
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Rune of Power.unity
+    guid: 9d46350330a808a45b61bdbf5c458f98
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Sakura Shield.unity
+    guid: 20061cd715cc4aa449997325814c44de
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Sakura Strike.unity
+    guid: a7e5e543f4993e24aa71ae8e975b57ef
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Shadow Hole.unity
+    guid: 573bd1d597233cb488df0d88ee35f212
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Soul Crystal.unity
+    guid: d46fa669399fef54dafcba3811f4c351
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Void Grenade.unity
+    guid: 5cc8645e3d68b68469cbf93219eec90d
+  - enabled: 1
+    path: Assets/QFX/Imagy VFX/Scenes/Water Splash.unity
+    guid: 6597ad5c113348048a0fddab893dec59
+  m_configObjects: {}
